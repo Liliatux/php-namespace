@@ -1,0 +1,15 @@
+{
+    "name": "root/espacedenom",
+    "authors": [
+        {
+            "name": "Lilia",
+            "email": "geertszelia@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {
+    		"Liliatux\\App\\": "src/"
+    	}
+    }
+}
